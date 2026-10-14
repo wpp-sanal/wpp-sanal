@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Hi, I'm Sanal — SRE: Security, DDoS, Cloud, Datacenter, ISP networking, Linux" />
+<img src="./banner.svg" width="100%" alt="Hi, I'm Sanal — SRE: Security, DDoS, Cloud, Datacenter, ISP Networking, Linux" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=760&lines=Keeping+packets+flowing+and+attackers+out;From+the+datacenter+floor+to+the+public+cloud;BGP+up.+DDoS+down.+Linux+everywhere.;Old-school+fundamentals+%C2%B7+new-school+scale" alt="typing" />
 
@@ -8,7 +8,6 @@
   <a href="https://linkedin.com/in/kpsanal"><img src="https://img.shields.io/badge/LinkedIn-kpsanal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/WPPOpen"><img src="https://img.shields.io/badge/WPP-Open-0b1410?style=for-the-badge&logo=github&logoColor=39d353" alt="WPP Open"/></a>
   <img src="https://img.shields.io/badge/📍_Bangalore-India-0b1410?style=for-the-badge&labelColor=39d353&color=0b1410" alt="Bangalore"/>
-  <img src="https://komarev.com/ghpvc/?username=wpp-sanal&style=for-the-badge&color=39d353&label=VISITORS" alt="Profile views"/>
 </p>
 
 </div>
