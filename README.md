@@ -7,8 +7,6 @@
 <a href="https://linkedin.com/in/kpsanal"><img src="https://img.shields.io/badge/LinkedIn-kpsanal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/WPPOpen"><img src="https://img.shields.io/badge/WPP-Open-000000?style=for-the-badge&logo=github&logoColor=white" alt="WPP Open"/></a>
 <img src="https://img.shields.io/badge/Based_in-Bangalore-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bangalore"/>
-<img src="https://komarev.com/ghpvc/?username=wpp-sanal&style=for-the-badge&color=39d353&label=VISITORS" alt="Profile views"/>
-
 </div>
 
 ---
